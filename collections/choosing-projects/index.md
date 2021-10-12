@@ -1,4 +1,5 @@
----
+---stargazers
+
 items:
  - rust-lang/rust
  - HospitalRun/hospitalrun-frontend
@@ -9,4 +10,4 @@ items:
 display_name: How to choose (and contribute to) your first open source project
 created_by: kytrinyx
 ---
-New to open source? Here’s how to find projects that need help and start making impactful contributions.
+New to open source? Here’s how to find pr loojects that need help and start making impactful contributions.
